@@ -1,1 +1,1 @@
-worker: python worker.py
+worker: python site_checker.py
